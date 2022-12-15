@@ -9,8 +9,8 @@ public class MyCsharp
     // Expected Line 2, replace this comment with code on pull request
 	}
 	
-	public void printName(string name)
+	public void printName(string Yeoj)
 	{
-		Console.WriteLine("Hello! My name is " + name);
+		Console.WriteLine("Hello! My name is " + Yeoj);
 	}
 }
