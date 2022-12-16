@@ -12,6 +12,7 @@ public class MyCsharp
 	public void printName(string Yeoj)
 	{
 		Console.WriteLine("Hello! My name is " + Yeoj);
-		Console.WriteLine("I am + 21 years old")
+		Console.WriteLine("I am + 21 years old");
+		Console.WriteLine("I Live In Sto tomas Batangas);
 	}
 }
