@@ -12,6 +12,6 @@ def executeScript(name: str, toggle:bool=None):
         print("Toggle has not been set, because it is optional")
     print()
 
-executeScript("Marc John Benamera")
-executeScript("Marc John Benamera", True) # Turn this argument to False to switch the possible output
+executeScript("Yeoj Nunez")
+executeScript("Yeoj Nunez", False) # Turn this argument to False to switch the possible output
 # Before sending your pull request, change the name inside the executeScript with your own name
