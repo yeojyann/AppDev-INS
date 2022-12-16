@@ -8,7 +8,7 @@ public class MyCsharp
     // Expected Line 1, replace this comment with code on pull request
     // Expected Line 2, replace this comment with code on pull request
 		
-		MyCsharp pin + new MyCsharp();
+		MyCsharp pin = new MyCsharp();
 		pin.printName("Yeoj Yann Shane M. Nunez");
 	}
 	
